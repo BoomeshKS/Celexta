@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\portfolio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:portfolio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\portfolio-single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:portfolio-single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\service-single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:service-single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\index-slider.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index-slider.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\services.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:services.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\contact.html",
+              "RelativeDocumentMoniker": "contact.html",
+              "ToolTip": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\contact.html",
+              "RelativeToolTip": "contact.html",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAgwH8BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-20T07:42:54.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "portfolio.html",
+              "DocumentMoniker": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\portfolio.html",
+              "RelativeDocumentMoniker": "portfolio.html",
+              "ToolTip": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\portfolio.html",
+              "RelativeToolTip": "portfolio.html",
+              "ViewState": "AgIAAMsBAAAAAAAAAAAgwOMBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-20T07:13:31.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "portfolio-single.html",
+              "DocumentMoniker": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\portfolio-single.html",
+              "RelativeDocumentMoniker": "portfolio-single.html",
+              "ToolTip": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\portfolio-single.html",
+              "RelativeToolTip": "portfolio-single.html",
+              "ViewState": "AgIAAOMBAAAAAAAAAAAgwOwBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-20T07:13:31.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "service-single.html",
+              "DocumentMoniker": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\service-single.html",
+              "RelativeDocumentMoniker": "service-single.html",
+              "ToolTip": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\service-single.html",
+              "RelativeToolTip": "service-single.html",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAAAPgBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-20T06:52:58.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "services.html",
+              "DocumentMoniker": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\services.html",
+              "RelativeDocumentMoniker": "services.html",
+              "ToolTip": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\services.html",
+              "RelativeToolTip": "services.html",
+              "ViewState": "AgIAABECAAAAAAAAAAAgwCkCAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-20T06:41:25.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\about.html",
+              "RelativeDocumentMoniker": "about.html",
+              "ToolTip": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\about.html",
+              "RelativeToolTip": "about.html",
+              "ViewState": "AgIAAKsDAAAAAAAAAAAgwPADAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-20T06:24:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index-slider.html",
+              "DocumentMoniker": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\index-slider.html",
+              "RelativeDocumentMoniker": "index-slider.html",
+              "ToolTip": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\index-slider.html",
+              "RelativeToolTip": "index-slider.html",
+              "ViewState": "AgIAALEBAAAAAAAAAAAAAM4FAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-17T15:31:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Altruistry\\Theme\\Celexta\\demo.awaikenthemes.com\\html-preview\\Celexta\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-17T14:53:12.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
